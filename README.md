@@ -11,4 +11,4 @@
 
 ##CONNECT WITH ME:
 
-<a href="https://instagram.com/sriram.b.pillai" target="blank"><img align ="center" src="https://raw,githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagranm.svg" alt="sriram.b.pillai" height="30" width="40" /></a>
+<a href="https://instagram.com/sriram.b.pillai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sriram.b.pillai" height="30" width="40" /></a>
